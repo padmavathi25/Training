@@ -1,0 +1,46 @@
+{
+  "departments": [
+    {
+      "departmentName": "Human Resources",
+      "subdepartments": [
+        {
+          "name": "Recruitment"
+        },
+        {
+          "name": "Employee Relations"
+        },
+        {
+          "name": "Training and Development"
+        }
+      ]
+    },
+    {
+      "departmentName": "Information Technology",
+      "subdepartments": [
+        {
+          "name": "Software Development"
+        },
+        {
+          "name": "Network Administration"
+        },
+        {
+          "name": "Cybersecurity"
+        }
+      ]
+    },
+    {
+      "departmentName": "Finance",
+      "subdepartments": [
+        {
+          "name": "Accounting"
+        },
+        {
+          "name": "Budgeting"
+        },
+        {
+          "name": "Financial Planning"
+        }
+      ]
+    }
+  ]
+}

@@ -6,7 +6,7 @@ import { RoutingComponent } from './Concepts/routing/routing.component';
 const routes: Routes = [
    {path :'', redirectTo: 'databind', pathMatch :'full'},
    {path :'binding', component : DataBindingComponent},
-   {path :'routing', component :  RoutingComponent},
+   //{path :'routing', component :  RoutingComponent},
 ];
 
 @NgModule({
